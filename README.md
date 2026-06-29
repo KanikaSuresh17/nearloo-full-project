@@ -1,6 +1,6 @@
 # 🚻 NearLoo — Smart Public Toilet Locator
 
-> AI-powered real-time public restroom finder for urban cities like Chennai and Coimbatore.
+> Real-time public restroom finder for urban citie like Coimbatore.
 
 ![NearLoo](https://img.shields.io/badge/NearLoo-v1.0.0-green)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
@@ -73,7 +73,6 @@ Citizens struggle to locate clean and accessible public toilets in cities like C
 
 ### Prerequisites
 - Java 21
-- Node.js 18+
 - Maven
 - Supabase account (free)
 
